@@ -143,6 +143,19 @@ export default async function RootLayout({
 
     return (
         <html lang={htmlLang} suppressHydrationWarning>
+
+return (
+    <html lang={htmlLang} suppressHydrationWarning>
+        <head>
+            <script
+                async
+                src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2301709267790754"
+                crossOrigin="anonymous"
+            />
+        </head>
+        <body className="antialiased">
+            {/* 以下不变 */}
+            
             <body className="antialiased">
                 <AppI18nProvider locale={locale} dictionary={dict}>
                     <DeferredRuntimeServices />
