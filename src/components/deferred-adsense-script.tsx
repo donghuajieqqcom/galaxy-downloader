@@ -2,7 +2,7 @@
 
 import { useEffect } from 'react'
 
-const ADSENSE_SRC = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1581472267398547'
+const ADSENSE_SRC = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2301709267790754'
 const SCRIPT_SELECTOR = 'script[data-adsense-loader="deferred"]'
 const AD_SLOT_SELECTOR = 'ins.adsbygoogle[data-ad-client]'
 
