@@ -55,7 +55,7 @@ export async function generateMetadata({
             telephone: false,
         },
         other: {
-            'google-adsense-account': 'ca-pub-1581472267398547',
+            'google-adsense-account': 'ca-pub-2301709267790754',
             'mobile-web-app-capable': 'yes',
             'msapplication-TileColor': '#000000',
         },
