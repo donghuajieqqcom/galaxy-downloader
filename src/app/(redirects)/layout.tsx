@@ -11,7 +11,7 @@ export default function RedirectLayout({
     return (
         <html lang={localeToHtmlLang(i18n.defaultLocale)} suppressHydrationWarning>
             <head>
-                <meta name="google-adsense-account" content="ca-pub-1581472267398547" />
+                <meta name="google-adsense-account" content="ca-pub-2301709267790754" />
             </head>
             <body>{children}</body>
         </html>
