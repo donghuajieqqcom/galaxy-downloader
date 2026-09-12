@@ -30,17 +30,17 @@ export default async function HomePage({
                         <TodayStatsCard dict={dict} />
                         <QuickStartCard dict={dict} />
                         <FreeSupportCard dict={dict} />
-                        <ViewportSideRailAd slot="2301709267790754" showOn="desktop" height={250} />
+                        <ViewportSideRailAd slot="2566484355" showOn="desktop" height={250} />
                     </>
                 }
                 rightRail={
                     <>
                         <PlatformGuideCard dict={dict} />
-                        <ViewportSideRailAd slot="2301709267790754" showOn="desktop" height={250} />
+                        <ViewportSideRailAd slot="3632154012" showOn="desktop" height={250} />
                     </>
                 }
                 mobileAd={
-                    <ViewportSideRailAd slot="2301709267790754" showOn="mobile" height={250} />
+                    <ViewportSideRailAd slot="8832509806" showOn="mobile" height={250} />
                 }
                 mobileGuides={
                     <>
