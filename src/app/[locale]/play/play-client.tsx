@@ -206,8 +206,8 @@ export function PlayPageClient() {
                                 </div>
 
                                 <div className="pt-2">
-                                    <ViewportSideRailAd slot="5740014745" showOn="mobile"  />
-                                    <ViewportSideRailAd slot="6380909506" showOn="desktop" />
+                                    <ViewportSideRailAd slot="8832509806" showOn="mobile"  />
+                                    <ViewportSideRailAd slot="3632154012" showOn="desktop" />
                                 </div>
                             </div>
                         )}
